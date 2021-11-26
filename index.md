@@ -4,7 +4,7 @@
 Hi! I am a Ph.D. candidate in the State Key Laboratory of Information Security, Institute of Information Engineering, Chinese Academy of Sciences.
 
 ## Contract
-- bilei121@outlook.com
+- [bilei121@outlook.com](bilei121@outlook.com)
 - [bilei121.github.io](bilei121.github.io)
 
 ## Research Interests
