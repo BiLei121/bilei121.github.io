@@ -1,5 +1,5 @@
 
-# BI Lei
+# BI Lei &emsp; 毕蕾
 
 Hi! I am a Ph.D. candidate in the State Key Laboratory of Information Security, Institute of Information Engineering, Chinese Academy of Sciences.
 
@@ -34,6 +34,6 @@ Concrete security
 
 ## Education
 
-- 2017-2022 Ph.D. University of Chinese Academy of Sciences
-- 2014-2017 Master University of Chinese Academy of Sciences
-- 2009-2013 Bachelor Chengdu University of Technology
+- 2017-2022 &emsp; Ph.D. University of Chinese Academy of Sciences
+- 2014-2017 &emsp; Master University of Chinese Academy of Sciences
+- 2009-2013 &emsp; Bachelor Chengdu University of Technology
