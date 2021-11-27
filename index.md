@@ -3,9 +3,6 @@
 
 Hi! I am a Ph.D. candidate in the State Key Laboratory of Information Security, Institute of Information Engineering, Chinese Academy of Sciences.
 
-## Contact
-- bilei121@outlook.com
-
 ## Research Interest
 Concrete security
 
@@ -34,6 +31,9 @@ Concrete security
 
 ## Education
 
-- 2017-2022 &emsp; Ph.D. University of Chinese Academy of Sciences
-- 2014-2017 &emsp; Master University of Chinese Academy of Sciences
-- 2009-2013 &emsp; Bachelor Chengdu University of Technology
+- 2017-2022 &emsp; Ph.D., Cyber Security. &emsp; University of Chinese Academy of Sciences
+- 2014-2017 &emsp; Master of Computer Technology. &emsp; University of Chinese Academy of Sciences
+- 2009-2013 &emsp; Bachelor of Information and Computing Science. &emsp; Chengdu University of Technology
+
+## Contact
+- bilei121@outlook.com
