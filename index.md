@@ -31,9 +31,12 @@ Concrete security
 
 ## Education
 
-- 2017-2022 &emsp; Ph.D., Cyber Security. &emsp; University of Chinese Academy of Sciences
-- 2014-2017 &emsp; Master of Computer Technology. &emsp; University of Chinese Academy of Sciences
-- 2009-2013 &emsp; Bachelor of Information and Computing Science. &emsp; Chengdu University of Technology
+- 2017-2022 &emsp; Ph.D., Cyber Security.
+  - University of Chinese Academy of Sciences
+- 2014-2017 &emsp; Master of Computer Technology.
+  - University of Chinese Academy of Sciences
+- 2009-2013 &emsp; Bachelor of Information and Computing Science.
+  - Chengdu University of Technology
 
 ## Contact
 - bilei121@outlook.com
