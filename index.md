@@ -17,7 +17,7 @@ Concrete security
   - Lei Bi, Xianhui Lu, Junjie Luo, Kunpeng Wang
   - Journal of Cyber Security 2021
 
-- [Research status and development trend of lattice sieving (in Chinese)](http://www.jcr.cacrnet.org.cn/CN/Y2021/V8/I5/735)
+- [Research status and development trend of lattice sieving](http://www.jcr.cacrnet.org.cn/CN/Y2021/V8/I5/735) (in Chinese)
   - Lei Bi, Xianhui Lu, Kunpeng Wang
   - Journal of Cryptologic Research 2021
 
@@ -25,13 +25,13 @@ Concrete security
   - Shuaigang Li, Xianhui Lu, Jiang Zhang, Bao Li, Lei Bi
   - ICICS 2021
 
-- [A survey on the analysis of the concrete hardnes of LWE (in Chinese)](http://jcs.iie.ac.cn/xxaqxb/ch/reader/view_abstract.aspx?file_no=20190201&flag=1)
+- [A survey on the analysis of the concrete hardnes of LWE](http://jcs.iie.ac.cn/xxaqxb/ch/reader/view_abstract.aspx?file_no=20190201&flag=1) (in Chinese)
   - Lei Bi, Shuaigang Li, Yamin Liu, Jiang Zhang, Shuqin Fan
   - Journal of Cyber Security 2019
 
 ## Education
 
-- 2017-2022 &emsp; Ph.D., Cyber Security.
+- 2017-2022 &emsp; Ph.D. of Cyber Security.
   - University of Chinese Academy of Sciences
 - 2014-2017 &emsp; Master of Computer Technology.
   - University of Chinese Academy of Sciences
