@@ -3,32 +3,32 @@
 
 Hi! I am a Ph.D. candidate in the State Key Laboratory of Information Security, Institute of Information Engineering, Chinese Academy of Sciences.
 
-## Contract
-- [bilei121@outlook.com](bilei121@outlook.com)
-- [bilei121.github.io](bilei121.github.io)
+## Contact
+- bilei121@outlook.com
 
-## Research Interests
+## Research Interest
 Concrete security
 
-## Publications
+## Publication
 
-- Hybrid dual attack on LWE with arbitrary secrets
+- [Hybrid dual attack on LWE with arbitrary secrets](https://eprint.iacr.org/2021/152)
   - Lei Bi, Xianhui Lu, Junjie Luo, Kunpeng Wang, Zhenfei Zhang
-  - Pre-print. [IACR ePrint 2021](https://eprint.iacr.org/2021/152)
+  - IACR ePrint 2021
+  - [Estimator](https://github.com/BiLei121/hybrid-dual-estimator)
 
 - Dual Attack with Side Information (in Chinese)
   - Lei Bi, Xianhui Lu, Junjie Luo, Kunpeng Wang
   - Journal of Cyber Security 2021
 
-- Research status and development trend of lattice sieving (in Chinese)
+- [Research status and development trend of lattice sieving (in Chinese)](http://www.jcr.cacrnet.org.cn/CN/Y2021/V8/I5/735)
   - Lei Bi, Xianhui Lu, Kunpeng Wang
   - Journal of Cryptologic Research 2021
 
-- Predicting the Concrete Security of LWE Against the Dual Attack Using Binary Search
+- [Predicting the Concrete Security of LWE Against the Dual Attack Using Binary Search](https://link.springer.com/chapter/10.1007%2F978-3-030-88052-1_16)
   - Shuaigang Li, Xianhui Lu, Jiang Zhang, Bao Li, Lei Bi
   - ICICS 2021
 
-- A survey on the analysis of the concrete hardnes of LWE (in Chinese)
+- [A survey on the analysis of the concrete hardnes of LWE (in Chinese)](http://jcs.iie.ac.cn/xxaqxb/ch/reader/view_abstract.aspx?file_no=20190201&flag=1)
   - Lei Bi, Shuaigang Li, Yamin Liu, Jiang Zhang, Shuqin Fan
   - Journal of Cyber Security 2019
 
