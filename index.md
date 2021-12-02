@@ -1,7 +1,9 @@
 
-# BI Lei &emsp; 毕蕾
+# BI Lei &emsp; <ruby>毕<rt>b&igrave;</rt> 蕾<rt>l&ecaron;i</rt></ruby>
 
 Hi! I am a Ph.D. candidate in the State Key Laboratory of Information Security, Institute of Information Engineering, Chinese Academy of Sciences.
+
+<ruby>树<rt>shu </rt> 根<rt>gen</rt></ruby>
 
 ## Research Interest
 Concrete security of LWE
@@ -41,3 +43,5 @@ Concrete security of LWE
 ## Contact
 - Email <bilei121@outlook.com>
 - ORCID [0000-0003-0760-3149](https://orcid.org/0000-0003-0760-3149)
+
+
