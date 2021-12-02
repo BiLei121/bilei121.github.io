@@ -3,3 +3,5 @@ permalink: /404.html
 url: "bilei121.github.io"
 targeturl: "bilei121.github.io"
 baseurl: "tailieubkhn"
+
+theme: jekyll-theme-slate
