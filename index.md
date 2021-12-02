@@ -1,5 +1,5 @@
 
-# BI Lei &emsp; 毕蕾 &emsp; b&igrave; l&#x0011B;i
+# BI Lei &emsp; <ruby>毕<rt>b&igrave;</rt>蕾<rt>l&#x0011B;i</rt></ruby>
 
 Hi! I am a Ph.D. candidate in the State Key Laboratory of Information Security, Institute of Information Engineering, Chinese Academy of Sciences.
 
