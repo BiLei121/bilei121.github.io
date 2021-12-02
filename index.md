@@ -3,8 +3,6 @@
 
 Hi! I am a Ph.D. candidate in the State Key Laboratory of Information Security, Institute of Information Engineering, Chinese Academy of Sciences.
 
-<ruby>树<rt>shu </rt> 根<rt>gen</rt></ruby>
-
 ## Research Interest
 Concrete security of LWE
 
