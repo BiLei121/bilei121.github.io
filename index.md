@@ -1,5 +1,5 @@
 
-# BI Lei &emsp; 毕蕾 &emsp; b&igrave; l&ecaron;i
+# BI Lei &emsp; 毕蕾 &emsp; b&igrave; l&#x0011B;i
 
 Hi! I am a Ph.D. candidate in the State Key Laboratory of Information Security, Institute of Information Engineering, Chinese Academy of Sciences.
 
