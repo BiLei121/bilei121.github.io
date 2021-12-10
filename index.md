@@ -1,5 +1,5 @@
 
-# <center> BI Lei &emsp; <ruby>毕<rt>b&igrave;</rt>蕾<rt>l&#x0011B;i</rt></ruby>
+# BI Lei &emsp; <ruby>毕<rt>b&igrave;</rt>蕾<rt>l&#x0011B;i</rt></ruby>
 
 Hi! I am a Ph.D. candidate in the State Key Laboratory of Information Security, Institute of Information Engineering, Chinese Academy of Sciences.
 
@@ -21,9 +21,13 @@ Concrete security of LWE
   - Lei Bi, Xianhui Lu, Kunpeng Wang
   - Journal of Cryptologic Research 2021
 
-- [Predicting the Concrete Security of LWE Against the Dual Attack Using Binary Search](https://link.springer.com/chapter/10.1007%2F978-3-030-88052-1_16)
+- [Predicting the concrete security of LWE against the dual attack using binary search](https://link.springer.com/chapter/10.1007%2F978-3-030-88052-1_16)
   - Shuaigang Li, Xianhui Lu, Jiang Zhang, Bao Li, Lei Bi
   - ICICS 2021
+  
+- Bootstrapping via compact isomorphic mapping (in Chinese)
+  - Qinju Liu, Xianhui Lu, Kunpeng Wang, Lei Bi
+  - Journal of Cyber Security 2021
 
 - [A survey on the analysis of the concrete hardnes of LWE](http://jcs.iie.ac.cn/xxaqxb/ch/reader/view_abstract.aspx?file_no=20190201&flag=1) (in Chinese)
   - Lei Bi, Shuaigang Li, Yamin Liu, Jiang Zhang, Shuqin Fan
