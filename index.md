@@ -35,11 +35,13 @@ Concrete security of LWE
 
 ## Education
 
-- 2017-2022 &emsp; Ph.D. of Cyber Security.
+- 2017-2022 &emsp; Ph.D. of Cyber Security
   - University of Chinese Academy of Sciences
-- 2014-2017 &emsp; Master of Computer Technology.
+  - Supervisor: Kunpeng Wang, Xianhui Lu
+- 2014-2017 &emsp; Master of Computer Technology
   - University of Chinese Academy of Sciences
-- 2009-2013 &emsp; Bachelor of Information and Computing Science.
+  - Supervisor: Kunpeng Wang
+- 2009-2013 &emsp; Bachelor of Information and Computing Science
   - Chengdu University of Technology
 
 ## Contact
