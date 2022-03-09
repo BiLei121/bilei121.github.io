@@ -10,7 +10,7 @@ Concrete security of LWE
 
 - [Hybrid dual attack on LWE with arbitrary secrets](https://eprint.iacr.org/2021/152)
   - Lei Bi, Xianhui Lu, Junjie Luo, Kunpeng Wang, Zhenfei Zhang
-  - IACR ePrint 2021
+  - Cybersecurity 2022
   - [Estimator](https://github.com/BiLei121/hybrid-dual-estimator)
 
 - Dual Attack with Side Information (in Chinese)
