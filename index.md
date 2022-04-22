@@ -8,11 +8,11 @@ Concrete security of LWE
 
 ## Publication
 
-- [Hybrid dual and mee-LWE attack]
+- Hybrid Dual and Meet-LWE Attack
   - Lei Bi, Xianhui Lu, Junjie Luo, Kunpeng Wang
   - ACISP 2022
 
-- [Hybrid dual attack on LWE with arbitrary secrets](https://eprint.iacr.org/2021/152)
+- [Hybrid Dual Attack on LWE with Arbitrary Secrets](https://eprint.iacr.org/2021/152)
   - Lei Bi, Xianhui Lu, Junjie Luo, Kunpeng Wang, Zhenfei Zhang
   - Cybersecurity 2022
   - [Estimator](https://github.com/BiLei121/hybrid-dual-estimator)
@@ -21,19 +21,19 @@ Concrete security of LWE
   - Lei Bi, Xianhui Lu, Junjie Luo, Kunpeng Wang
   - Journal of Cyber Security 2021
 
-- [Research status and development trend of lattice sieving](http://www.jcr.cacrnet.org.cn/CN/Y2021/V8/I5/735) (in Chinese)
+- [Research Status and Development Trend of Lattice Sieving](http://www.jcr.cacrnet.org.cn/CN/Y2021/V8/I5/735) (in Chinese)
   - Lei Bi, Xianhui Lu, Kunpeng Wang
   - Journal of Cryptologic Research 2021
 
-- [Predicting the concrete security of LWE against the dual attack using binary search](https://link.springer.com/chapter/10.1007%2F978-3-030-88052-1_16)
+- [Predicting the Concrete Security of LWE against the Dual Attack Using Binary Search](https://link.springer.com/chapter/10.1007%2F978-3-030-88052-1_16)
   - Shuaigang Li, Xianhui Lu, Jiang Zhang, Bao Li, Lei Bi
   - ICICS 2021
   
-- Bootstrapping via compact isomorphic mapping (in Chinese)
+- Bootstrapping via Compact Isomorphic Mapping (in Chinese)
   - Qinju Liu, Xianhui Lu, Kunpeng Wang, Lei Bi
   - Journal of Cyber Security 2021
 
-- [A survey on the analysis of the concrete hardnes of LWE](http://jcs.iie.ac.cn/xxaqxb/ch/reader/view_abstract.aspx?file_no=20190201&flag=1) (in Chinese)
+- [A Survey on the Analysis of the Concrete Hardnes of LWE](http://jcs.iie.ac.cn/xxaqxb/ch/reader/view_abstract.aspx?file_no=20190201&flag=1) (in Chinese)
   - Lei Bi, Shuaigang Li, Yamin Liu, Jiang Zhang, Shuqin Fan
   - Journal of Cyber Security 2019
 
