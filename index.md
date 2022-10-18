@@ -1,7 +1,7 @@
 
 # BI Lei &emsp; <ruby>毕<rt>b&igrave;</rt>蕾<rt>l&#x0011B;i</rt></ruby>
 
-Hi! I am a Postdoc in the State Key Laboratory of Information Security, Institute of Information Engineering, Chinese Academy of Sciences.
+Hi! I am a Postdoc in the Institute of Information Engineering, Chinese Academy of Sciences, working with Prof. Xianhui Lu.
 
 ## Research Interest
 Concrete security of LWE
