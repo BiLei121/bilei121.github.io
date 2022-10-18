@@ -39,19 +39,19 @@ Concrete security of LWE
 
 ## Experience
 
-- 2022.8-now &emsp; Postdoc 
+- 2022.8 - now &emsp; Postdoc 
   - Institute of Information Engineering, Chinese Academy of Sciences
   - Co-supervisor: Xianhui Lu
 
 ## Education
 
-- 2017.9-2022.6 &emsp; Ph.D. of Cyber Security
+- 2017.9 - 2022.6 &emsp; Ph.D. of Cyber Security
   - University of Chinese Academy of Sciences
   - Supervisor: Kunpeng Wang, Xianhui Lu
-- 2014.9-2017.6 &emsp; Master of Computer Technology
+- 2014.9 - 2017.6 &emsp; Master of Computer Technology
   - University of Chinese Academy of Sciences
   - Supervisor: Kunpeng Wang
-- 2009.9-2013.6 &emsp; Bachelor of Information and Computing Science
+- 2009.9 - 2013.6 &emsp; Bachelor of Information and Computing Science
   - Chengdu University of Technology
 
 ## Contact
