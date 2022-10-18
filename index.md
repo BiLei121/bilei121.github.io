@@ -1,18 +1,18 @@
 
 # BI Lei &emsp; <ruby>毕<rt>b&igrave;</rt>蕾<rt>l&#x0011B;i</rt></ruby>
 
-Hi! I am a Ph.D. candidate in the State Key Laboratory of Information Security, Institute of Information Engineering, Chinese Academy of Sciences.
+Hi! I am a Postdoc in the State Key Laboratory of Information Security, Institute of Information Engineering, Chinese Academy of Sciences.
 
 ## Research Interest
 Concrete security of LWE
 
 ## Publication
 
-- Hybrid Dual and Meet-LWE Attack
+- [Hybrid Dual and Meet-LWE Attack](https://eprint.iacr.org/2022/1330)
   - Lei Bi, Xianhui Lu, Junjie Luo, Kunpeng Wang
   - ACISP 2022
 
-- [Hybrid Dual Attack on LWE with Arbitrary Secrets](https://eprint.iacr.org/2021/152)
+- [Hybrid Dual Attack on LWE with Arbitrary Secrets](https://link.springer.com/article/10.1186/s42400-022-00115-y)
   - Lei Bi, Xianhui Lu, Junjie Luo, Kunpeng Wang, Zhenfei Zhang
   - Cybersecurity 2022
   - [Estimator](https://github.com/BiLei121/hybrid-dual-estimator)
@@ -37,15 +37,21 @@ Concrete security of LWE
   - Lei Bi, Shuaigang Li, Yamin Liu, Jiang Zhang, Shuqin Fan
   - Journal of Cyber Security 2019
 
+## Experience
+
+- 2022.8-now &emsp; Postdoc 
+  - Institute of Information Engineering, Chinese Academy of Sciences
+  - Co-supervisor: Xianhui Lu
+
 ## Education
 
-- 2017-2022 &emsp; Ph.D. of Cyber Security
+- 2017.9-2022.6 &emsp; Ph.D. of Cyber Security
   - University of Chinese Academy of Sciences
   - Supervisor: Kunpeng Wang, Xianhui Lu
-- 2014-2017 &emsp; Master of Computer Technology
+- 2014.9-2017.6 &emsp; Master of Computer Technology
   - University of Chinese Academy of Sciences
   - Supervisor: Kunpeng Wang
-- 2009-2013 &emsp; Bachelor of Information and Computing Science
+- 2009.9-2013.6 &emsp; Bachelor of Information and Computing Science
   - Chengdu University of Technology
 
 ## Contact
