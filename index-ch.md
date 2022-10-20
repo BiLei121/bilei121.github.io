@@ -1,4 +1,4 @@
-<p align="right"> 中文 ｜ [English](index.md) </p>
+<p align="right"> 中文 ｜ <a href="/index.html">English</a> </p>
 
 # 毕 蕾
 
