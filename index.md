@@ -1,6 +1,6 @@
 <p align="right"> <a href="/index-ch.html">中文</a> ｜ English </p>
 
-# BI Lei &emsp; <ruby>毕<rt>b&igrave;</rt>蕾<rt>l&#x0011B;i</rt></ruby>
+# BI Lei
 
 Hi! I am a Postdoc in the Institute of Information Engineering, Chinese Academy of Sciences, working with Prof. Xianhui Lu.
 
