@@ -1,3 +1,4 @@
+<p align="right"> [中文] ｜ English </p>
 
 # BI Lei &emsp; <ruby>毕<rt>b&igrave;</rt>蕾<rt>l&#x0011B;i</rt></ruby>
 
