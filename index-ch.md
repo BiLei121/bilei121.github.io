@@ -44,7 +44,7 @@ LWE问题的实际安全性分析
   - 李帅钢, 路献辉, 张江, 李宝, 毕蕾
   - ICICS 2021
   
-- [紧致编码下可编程自举方案](http://jcs.iie.ac.cn/xxaqxb/ch/reader/view_abstract.aspx?flag=2&file_no=202110090000001&journal_id=xxaqxb) (in Chinese)
+- [紧致编码下可编程自举方案](http://jcs.iie.ac.cn/xxaqxb/ch/reader/view_abstract.aspx?flag=2&file_no=202110090000001&journal_id=xxaqxb)
   - 刘钦菊, 路献辉, 王鲲鹏, 毕蕾
   - 信息安全学报 2021
 
