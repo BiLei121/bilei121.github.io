@@ -1,4 +1,4 @@
-<p align="right"> [中文] ｜ English </p>
+<p align="right"> [中文](index-ch.md) ｜ English </p>
 
 # BI Lei &emsp; <ruby>毕<rt>b&igrave;</rt>蕾<rt>l&#x0011B;i</rt></ruby>
 
@@ -32,7 +32,7 @@ Concrete security of LWE
   - Cybersecurity 2022
   - [Estimator](https://github.com/BiLei121/hybrid-dual-estimator)
 
-- Dual Attack with Side Information (in Chinese)
+- [Dual Attack with Side Information](http://jcs.iie.ac.cn/xxaqxb/ch/reader/view_abstract.aspx?flag=2&file_no=202104050000001&journal_id=xxaqxb#:~:text=除了实际安全性分析中的攻击方法，2020年，Dachman-Soled、Ducas、Gong等人%20提出了利用从侧信道中得到信息改进原始攻击效果的基本框架，但并未考虑对偶攻击%E3%80%82%20最近，关于混合对偶攻击的研究,%5B4-7%5D结果显示，在许多情形下（混合）对偶攻击的效果比原始攻击更好，因此考虑如何在对偶攻击中利用侧信息是一个有意义的问题%E3%80%82%20本文研究了这一问题，给出了在对偶攻击中利用侧信息的方法并分析了它们的效果%E3%80%82%20具体地，本文考虑了4种类型的侧信息，结果表明，它们对于对偶攻击的影响主要体现在对于格的体积的影响上——当格的体积减小时，攻击变得容易%E3%80%82) (in Chinese)
   - Lei Bi, Xianhui Lu, Junjie Luo, Kunpeng Wang
   - Journal of Cyber Security 2021
 
