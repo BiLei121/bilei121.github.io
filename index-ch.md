@@ -30,7 +30,7 @@ LWE问题的实际安全性分析
   - 李帅钢, 路献辉, 张江, 李宝, 毕蕾
   - ICICS 2021
   
-- Bootstrapping via Compact Isomorphic Mapping (in Chinese)
+- [紧致编码下可编程自举方案](http://jcs.iie.ac.cn/xxaqxb/ch/reader/view_abstract.aspx?flag=2&file_no=202110090000001&journal_id=xxaqxb) (in Chinese)
   - 刘钦菊, 路献辉, 王鲲鹏, 毕蕾
   - Journal of Cyber Security 2021
 
@@ -40,17 +40,17 @@ LWE问题的实际安全性分析
 
 ## Education
 
-- 2017-2022 &emsp; 博士 of Cyber Security
-  - University of Chinese Academy of Sciences
-  - Supervisor: Kunpeng Wang, Xianhui Lu
-- 2014-2017 &emsp; Master of Computer Technology
-  - University of Chinese Academy of Sciences
-  - Supervisor: Kunpeng Wang
-- 2009-2013 &emsp; Bachelor of Information and Computing Science
-  - Chengdu University of Technology
+- 2017-2022 &emsp; 博士 &emsp; 网络空间安全
+  - 中国科学院大学
+  - 导师：王鲲鹏, 路献辉
+- 2014-2017 &emsp; 硕士 &emsp; 计算机技术
+  - 中国科学院大学
+  - 导师：王鲲鹏
+- 2009-2013 &emsp; 学士 &emsp; 信息与计算科学
+  - 成都理工大学
 
 ## Contact
-- Email <bilei121@outlook.com>
+- 邮箱 <bilei121@outlook.com>
 - ORCID [0000-0003-0760-3149](https://orcid.org/0000-0003-0760-3149)
 
 

@@ -44,7 +44,7 @@ Concrete security of LWE
   - Shuaigang Li, Xianhui Lu, Jiang Zhang, Bao Li, Lei Bi
   - ICICS 2021
   
-- Bootstrapping via Compact Isomorphic Mapping (in Chinese)
+- [Programmable Bootstrapping via Compact Isomorphic Mapping](http://jcs.iie.ac.cn/xxaqxb/ch/reader/view_abstract.aspx?flag=2&file_no=202110090000001&journal_id=xxaqxb) (in Chinese)
   - Qinju Liu, Xianhui Lu, Kunpeng Wang, Lei Bi
   - Journal of Cyber Security 2021
 
