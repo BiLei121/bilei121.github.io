@@ -1,3 +1,4 @@
+<font face="Gabriola">
 <p align="right"> <a href="/index-ch.html">中文</a> ｜ English </p>
 
 # BI Lei
@@ -57,3 +58,4 @@ Concrete security of LWE
 - ORCID [0000-0003-0760-3149](https://orcid.org/0000-0003-0760-3149)
 
 ![Visitor Count](https://profile-counter.glitch.me/bilei121/count.svg)
+</font>
