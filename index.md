@@ -10,7 +10,7 @@ Concrete security of LWE
 ## Experience
 - 2022.8 - now &emsp; Postdoc 
   - Institute of Information Engineering, Chinese Academy of Sciences
-  - Co-supervisor: Xianhui Lu
+  - supervisor: Xianhui Lu
 
 ## Education
 - 2017.9 - 2022.6 &emsp; Ph.D. of Cyber Security
