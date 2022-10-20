@@ -23,7 +23,7 @@ LWE问题的实际安全性分析
   - 成都理工大学
 
 ## 发表论文
-- Hybrid Dual and Meet-LWE Attack
+- [Hybrid Dual and Meet-LWE Attack](https://eprint.iacr.org/2022/1330)
   - 毕蕾, 路献辉, 罗俊杰, 王鲲鹏
   - ACISP 2022
 
