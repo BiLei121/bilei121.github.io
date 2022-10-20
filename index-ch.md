@@ -1,4 +1,3 @@
-<font face="黑体">
 <p align="right"> 中文 ｜ <a href="/index.html">English</a> </p>
 
 # 毕 蕾
@@ -59,5 +58,3 @@ LWE问题的实际安全性分析
 - ORCID [0000-0003-0760-3149](https://orcid.org/0000-0003-0760-3149)
 
 ![Visitor Count](https://profile-counter.glitch.me/bilei121/count.svg)
-
-</font>
