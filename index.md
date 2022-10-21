@@ -56,4 +56,5 @@ Concrete security of LWE
 - Email <bilei121@outlook.com>
 - ORCID [0000-0003-0760-3149](https://orcid.org/0000-0003-0760-3149)
 
-Visitor Count ![Visitor Count](https://profile-counter.glitch.me/bilei121/count.svg)
+
+<p align="right">Visitor Count ![Visitor Count](https://profile-counter.glitch.me/bilei121/count.svg)</p>
