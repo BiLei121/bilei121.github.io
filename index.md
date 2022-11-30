@@ -26,6 +26,7 @@ Concrete security of LWE
 - [Hybrid Dual and Meet-LWE Attack](https://eprint.iacr.org/2022/1330)
   - Lei Bi, Xianhui Lu, Junjie Luo, Kunpeng Wang
   - ACISP 2022
+  - <a href="Slides-Hybrid dual attack and Meet-LWE attack.pdf" target='_blank'>Slides<a>
 
 - [Hybrid Dual Attack on LWE with Arbitrary Secrets](https://link.springer.com/article/10.1186/s42400-022-00115-y)
   - Lei Bi, Xianhui Lu, Junjie Luo, Kunpeng Wang, Zhenfei Zhang
