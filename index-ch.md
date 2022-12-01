@@ -26,6 +26,7 @@ LWE问题的实际安全性分析
 - [Hybrid Dual and Meet-LWE Attack](https://eprint.iacr.org/2022/1330)
   - 毕蕾, 路献辉, 罗俊杰, 王鲲鹏
   - ACISP 2022
+  - <a href="Slides-Hybrid dual attack and Meet-LWE attack.pdf" target='_blank'>Slides<a>
 
 - [Hybrid Dual Attack on LWE with Arbitrary Secrets](https://eprint.iacr.org/2021/152)
   - 毕蕾, 路献辉, 罗俊杰, 王鲲鹏, 张振飞
