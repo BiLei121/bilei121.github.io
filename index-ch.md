@@ -23,7 +23,7 @@ LWE问题的实际安全性分析
   - 成都理工大学
 
 ## 发表论文
-- 基于BKW算法的LWE问题的安全性评估
+- Security Estimation of LWE via BKW Algorithms
   - 魏钰, 毕蕾, 路献辉, 王鲲鹏
   - Cybersecurity 2023 已接收
 
