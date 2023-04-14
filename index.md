@@ -23,6 +23,10 @@ Concrete security of LWE
   - Chengdu University of Technology
 
 ## Publication
+- Security Estimation of LWE via BKW Algorithms
+  - Yu Wei, Lei Bi, Xianhui Lu, Kunpeng Wang
+  - Cybersecurity 2023 Accepted
+
 - [Hybrid Dual and Meet-LWE Attack](https://eprint.iacr.org/2022/1330)
   - Lei Bi, Xianhui Lu, Junjie Luo, Kunpeng Wang
   - ACISP 2022

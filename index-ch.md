@@ -23,6 +23,10 @@ LWE问题的实际安全性分析
   - 成都理工大学
 
 ## 发表论文
+- 基于BKW算法的LWE问题的安全性评估
+  - 魏钰, 毕蕾, 路献辉, 王鲲鹏
+  - Cybersecurity 2023 已接收
+
 - [Hybrid Dual and Meet-LWE Attack](https://eprint.iacr.org/2022/1330)
   - 毕蕾, 路献辉, 罗俊杰, 王鲲鹏
   - ACISP 2022
