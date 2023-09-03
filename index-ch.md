@@ -23,7 +23,7 @@ LWE问题的实际安全性分析
   - 成都理工大学
 
 ## 发表论文
-- [Security Estimation of LWE via BKW Algorithms](https://rdcu.be/dk2mP)
+- [Security Estimation of LWE via BKW Algorithms]([https://rdcu.be/dk2mP](https://cybersecurity.springeropen.com/articles/10.1186/s42400-023-00158-9))
   - 魏钰, 毕蕾, 路献辉, 王鲲鹏
   - Cybersecurity 2023 已接收
 
