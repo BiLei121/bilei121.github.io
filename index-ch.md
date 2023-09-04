@@ -48,6 +48,10 @@ LWE问题的实际安全性分析
   - 毕蕾, 路献辉, 王鲲鹏
   - 密码学报 2021
 
+- [LWE问题实际安全性分析综述](http://jcs.iie.ac.cn/xxaqxb/ch/reader/view_abstract.aspx?file_no=20190201&flag=1) 
+  - 毕蕾, 李帅钢, 刘亚敏, 张江, 范淑琴
+  - 信息安全学报 2019
+
 ### 其他
 
 - [Predicting the Concrete Security of LWE against the Dual Attack Using Binary Search](https://link.springer.com/chapter/10.1007%2F978-3-030-88052-1_16)
@@ -57,11 +61,6 @@ LWE问题的实际安全性分析
 - [紧致编码下可编程自举方案](http://jcs.iie.ac.cn/xxaqxb/ch/reader/view_abstract.aspx?flag=2&file_no=202110090000001&journal_id=xxaqxb)
   - 刘钦菊, 路献辉, 王鲲鹏, 毕蕾
   - 信息安全学报 2021
-
-- [LWE问题实际安全性分析综述](http://jcs.iie.ac.cn/xxaqxb/ch/reader/view_abstract.aspx?file_no=20190201&flag=1) 
-  - 毕蕾, 李帅钢, 刘亚敏, 张江, 范淑琴
-  - 信息安全学报 2019
-
 
 ## 联系方式
 - 邮箱 <bilei121@outlook.com>
