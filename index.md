@@ -23,7 +23,7 @@ Concrete security of LWE
   - Chengdu University of Technology
 
 ## Publication
-- [Security Estimation of LWE via BKW Algorithms]((https://cybersecurity.springeropen.com/articles/10.1186/s42400-023-00158-9))
+- [Security Estimation of LWE via BKW Algorithms](https://cybersecurity.springeropen.com/articles/10.1186/s42400-023-00158-9)
   - Yu Wei, Lei Bi, Xianhui Lu, Kunpeng Wang
   - Cybersecurity 2023
 
