@@ -23,9 +23,12 @@ LWE问题的实际安全性分析
   - 成都理工大学
 
 ## 发表论文
-- [Security Estimation of LWE via BKW Algorithms]([https://rdcu.be/dk2mP](https://cybersecurity.springeropen.com/articles/10.1186/s42400-023-00158-9))
+
+### 一作或通讯
+
+- [Security Estimation of LWE via BKW Algorithms](https://cybersecurity.springeropen.com/articles/10.1186/s42400-023-00158-9)
   - 魏钰, 毕蕾, 路献辉, 王鲲鹏
-  - Cybersecurity 2023 已接收
+  - Cybersecurity 2023
 
 - [Hybrid Dual and Meet-LWE Attack](https://eprint.iacr.org/2022/1330)
   - 毕蕾, 路献辉, 罗俊杰, 王鲲鹏
@@ -44,6 +47,8 @@ LWE问题的实际安全性分析
 - [格上筛法研究现状与发展趋势](http://www.jcr.cacrnet.org.cn/CN/Y2021/V8/I5/735)
   - 毕蕾, 路献辉, 王鲲鹏
   - 密码学报 2021
+
+### 其他
 
 - [Predicting the Concrete Security of LWE against the Dual Attack Using Binary Search](https://link.springer.com/chapter/10.1007%2F978-3-030-88052-1_16)
   - 李帅钢, 路献辉, 张江, 李宝, 毕蕾
