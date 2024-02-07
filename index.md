@@ -23,6 +23,10 @@ Concrete security of LWE
   - Chengdu University of Technology
 
 ## Publication
+- [An Improved BKW Algorithm for Solving LWE with Small Secrets](https://link.springer.com/chapter/10.1007/978-3-031-49187-0_29)
+  - Yu Wei, Lei Bi, Kunpeng Wang, Xianhui Lu
+  - ISC 2023
+
 - [Security Estimation of LWE via BKW Algorithms](https://cybersecurity.springeropen.com/articles/10.1186/s42400-023-00158-9)
   - Yu Wei, Lei Bi, Xianhui Lu, Kunpeng Wang
   - Cybersecurity 2023
