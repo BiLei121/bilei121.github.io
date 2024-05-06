@@ -56,7 +56,10 @@ LWE问题的实际安全性分析
   - 信息安全学报 2019
 
 ### 其他
-
+- [Polar Code-based Secure Transmission with Higher Message Rate Combing Channel Entropy and Computational Entropy](https://link.springer.com/article/10.1186/s42400-024-00229-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240504&utm_content=10.1186/s42400-024-00229-5)
+  - 安晨, 黄梦洁, 路献辉, 毕蕾, 李伟杰
+  - Cybersecurity 2024
+  
 - [Predicting the Concrete Security of LWE against the Dual Attack Using Binary Search](https://link.springer.com/chapter/10.1007%2F978-3-030-88052-1_16)
   - 李帅钢, 路献辉, 张江, 李宝, 毕蕾
   - ICICS 2021
