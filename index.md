@@ -23,6 +23,10 @@ Concrete security of LWE
   - Chengdu University of Technology
 
 ## Publication
+- An Improved BKW Algorithm on the Learning with Rounding Problem.
+  - Yu Wei, Lei Bi, Kunpeng Wang, Xianhui Lu
+  - Cybersecurity 2024
+
 - [Polar Code-based Secure Transmission with Higher Message Rate Combing Channel Entropy and Computational Entropy](https://link.springer.com/article/10.1186/s42400-024-00229-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240504&utm_content=10.1186/s42400-024-00229-5)
   - Chen An, Mengjie Huang, Xianhui Lu, Lei Bi, Wejie Li
   - Cybersecurity 2024 
