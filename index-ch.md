@@ -25,6 +25,10 @@ LWE问题的实际安全性分析
 ## 发表论文
 
 ### 一作或通讯
+- An Improved BKW Algorithm on the Learning with Rounding Problem.
+  - 魏钰, 毕蕾, 王鲲鹏, 路献辉
+  - Cybersecurity 2024
+
 - [An Improved BKW Algorithm for Solving LWE with Small Secrets](https://link.springer.com/chapter/10.1007/978-3-031-49187-0_29)
   - 魏钰, 毕蕾, 王鲲鹏, 路献辉
   - ISC 2023
