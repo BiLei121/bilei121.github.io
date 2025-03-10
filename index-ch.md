@@ -25,6 +25,10 @@ LWE问题的实际安全性分析
 ## 发表论文
 
 ### 一作或通讯
+- Memory-Efficient BKW Algorithm for Solving the LWE problem.
+  - 魏钰, 毕蕾, 王鲲鹏, 路献辉
+  - PKC 2025
+  
 - An Improved BKW Algorithm on the Learning with Rounding Problem.
   - 魏钰, 毕蕾, 王鲲鹏, 路献辉
   - Cybersecurity 2024
