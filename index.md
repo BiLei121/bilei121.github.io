@@ -23,6 +23,9 @@ Concrete security of LWE
   - Chengdu University of Technology
 
 ## Publication
+- Memory-Efficient BKW Algorithm for Solving the LWE problem.
+  - Yu Wei, Lei Bi, Kunpeng Wang, Xianhui Lu
+  - PKC 2025
 - An Improved BKW Algorithm on the Learning with Rounding Problem.
   - Yu Wei, Lei Bi, Kunpeng Wang, Xianhui Lu
   - Cybersecurity 2024
