@@ -25,7 +25,7 @@ LWE问题的具体安全性分析
 ## 发表论文
 
 ### 一作或通讯
-- Memory-Efficient BKW Algorithm for Solving the LWE problem.
+- [Memory-Efficient BKW Algorithm for Solving the LWE problem](https://eprint.iacr.org/2025/266)
   - 魏钰, 毕蕾, 王鲲鹏, 路献辉
   - PKC 2025
   
