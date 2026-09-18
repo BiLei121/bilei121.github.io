@@ -2,12 +2,15 @@
 
 # 毕 蕾
 
-Hi! 我是中国科学院信息工程研究所网络空间安全防御重点实验室的博士后，合作导师是路献辉研究员。
+Hi! 我是中国科学院信息工程研究所网络空间安全防御重点实验室的助理研究员。
 
 ## 研究方向
-LWE问题的具体安全性分析
+格密码的安全性分析
 
 ## 工作经历
+- 2025.7 - 今 助理研究员
+  - 中国科学院信息工程研究所 网络空间安全防御全国重点实验室 
+
 - 2022.8 - 2025.6 博士后
   - 中国科学院信息工程研究所 信息安全国家重点实验室
   - 合作导师：路献辉
@@ -25,6 +28,10 @@ LWE问题的具体安全性分析
 ## 发表论文
 
 ### 一作或通讯
+- An Improved Hybrid Dual Attack on LWE with Sparse Secrets and its Application to FHE
+  - 毕蕾, 刘易简, 路献辉, 罗俊杰, 王鲲鹏
+  - Inscrypt 2026 
+
 - [Memory-Efficient BKW Algorithm for Solving the LWE problem](https://eprint.iacr.org/2025/266)
   - 魏钰, 毕蕾, 王鲲鹏, 路献辉
   - PKC 2025
