@@ -2,13 +2,15 @@
 
 # BI Lei
 
-Hi! I am a Postdoc in the Institute of Information Engineering, Chinese Academy of Sciences, working with Prof. Xianhui Lu.
+Hi! I am a Assistant Research Fellow in the Institute of Information Engineering, Chinese Academy of Sciences.
 
 ## Research Interest
-Concrete security of LWE
+Security of Lattice-based Cryptography
 
 ## Experience
-- 2022.8 - now &emsp; Postdoc 
+- 2025.7 -  now &emsp; Assistant Research Fellow
+  - Institute of Information Engineering, Chinese Academy of Sciences   
+- 2022.8 - 2025.6 &emsp; Postdoc 
   - Institute of Information Engineering, Chinese Academy of Sciences
   - supervisor: Xianhui Lu
 
@@ -23,9 +25,14 @@ Concrete security of LWE
   - Chengdu University of Technology
 
 ## Publication
+- An Improved Hybrid Dual Attack on LWE with Sparse Secrets and its Application to FHE
+  - Lei Bi, Yijian Liu, Xianhui Lu, Junjie Luo, Kunpeng Wang
+  - Inscrypt 2026  
+
 - [Memory-Efficient BKW Algorithm for Solving the LWE problem](https://eprint.iacr.org/2025/266)
   - Yu Wei, Lei Bi, Kunpeng Wang, Xianhui Lu
   - PKC 2025
+  
 - [An Improved BKW Algorithm on the Learning with Rounding Problem](https://link.springer.com/article/10.1186/s42400-024-00339-0?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250613&utm_content=10.1186%2Fs42400-024-00339-0)
   - Yu Wei, Lei Bi, Kunpeng Wang, Xianhui Lu
   - Cybersecurity 2024
